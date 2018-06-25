@@ -1,0 +1,18 @@
+dependencies: \
+  /Users/jinyoung/Google\ 드라이브/1.\ 2018시즌\ 전반기/7..\ 머니볼/cuop/ReactTutorial/manager2/node_modules/react-native/Libraries/Text/TextInput/Singleline/RCTSinglelineTextInputView.m \
+  /Users/jinyoung/Google\ 드라이브/1.\ 2018시즌\ 전반기/7..\ 머니볼/cuop/ReactTutorial/manager2/node_modules/react-native/Libraries/Text/TextInput/Singleline/RCTSinglelineTextInputView.h \
+  /Users/jinyoung/Google\ 드라이브/1.\ 2018시즌\ 전반기/7..\ 머니볼/cuop/ReactTutorial/manager2/node_modules/react-native/Libraries/Text/TextInput/RCTBaseTextInputView.h \
+  /Users/jinyoung/Google\ 드라이브/1.\ 2018시즌\ 전반기/7..\ 머니볼/cuop/ReactTutorial/manager2/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTView.h \
+  /Users/jinyoung/Google\ 드라이브/1.\ 2018시즌\ 전반기/7..\ 머니볼/cuop/ReactTutorial/manager2/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/jinyoung/Google\ 드라이브/1.\ 2018시즌\ 전반기/7..\ 머니볼/cuop/ReactTutorial/manager2/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/jinyoung/Google\ 드라이브/1.\ 2018시즌\ 전반기/7..\ 머니볼/cuop/ReactTutorial/manager2/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/jinyoung/Google\ 드라이브/1.\ 2018시즌\ 전반기/7..\ 머니볼/cuop/ReactTutorial/manager2/node_modules/react-native/Libraries/Text/TextInput/RCTBackedTextInputDelegate.h \
+  /Users/jinyoung/Google\ 드라이브/1.\ 2018시즌\ 전반기/7..\ 머니볼/cuop/ReactTutorial/manager2/node_modules/react-native/Libraries/Text/TextInput/RCTBackedTextInputViewProtocol.h \
+  /Users/jinyoung/Google\ 드라이브/1.\ 2018시즌\ 전반기/7..\ 머니볼/cuop/ReactTutorial/manager2/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/jinyoung/Google\ 드라이브/1.\ 2018시즌\ 전반기/7..\ 머니볼/cuop/ReactTutorial/manager2/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/jinyoung/Google\ 드라이브/1.\ 2018시즌\ 전반기/7..\ 머니볼/cuop/ReactTutorial/manager2/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/jinyoung/Google\ 드라이브/1.\ 2018시즌\ 전반기/7..\ 머니볼/cuop/ReactTutorial/manager2/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/jinyoung/Google\ 드라이브/1.\ 2018시즌\ 전반기/7..\ 머니볼/cuop/ReactTutorial/manager2/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/jinyoung/Google\ 드라이브/1.\ 2018시즌\ 전반기/7..\ 머니볼/cuop/ReactTutorial/manager2/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/jinyoung/Google\ 드라이브/1.\ 2018시즌\ 전반기/7..\ 머니볼/cuop/ReactTutorial/manager2/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/jinyoung/Google\ 드라이브/1.\ 2018시즌\ 전반기/7..\ 머니볼/cuop/ReactTutorial/manager2/node_modules/react-native/Libraries/Text/TextInput/Singleline/RCTUITextField.h
